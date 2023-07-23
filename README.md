@@ -14,4 +14,5 @@ the results are displayed in the notebook but, described and displays in the fin
  * vgg19 - notebook contain a model based in transfer learning from vgg19 for classifying the flowers dataset
  * yolov5 - notebook contain a model based in transfer learning based on yolov5 for classifying the flowers dataset.
    the training was done via the yolov5 classification repo, with minor changes to the code. mainly for documenting the test accuracy during the epochs
-* inceptionv3 - notebook contain a model based in transfer learning based on inceptionv3 for classifying the flowers dataset.
+ * inceptionv3 - notebook contain a model based in transfer learning based on inceptionv3 for classifying the flowers dataset.
+* my_utils.py - a file containing the different pre-process functions 
